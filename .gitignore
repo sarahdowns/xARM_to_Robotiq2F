@@ -1,0 +1,7 @@
+# Altium Designer gitignore
+    History/
+    Project Logs*/
+    __Preview/
+    *.OutJob
+    *.Txt
+    ```
