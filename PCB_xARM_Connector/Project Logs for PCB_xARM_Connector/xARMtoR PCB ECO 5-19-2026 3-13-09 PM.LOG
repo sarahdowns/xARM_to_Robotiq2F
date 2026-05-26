@@ -1,0 +1,35 @@
+Added Component: Designator=J1(FP-M50-3530242-MFG)
+Added Component: Designator=J2(FP-M50-3530242-MFG)
+Added Component: Designator=J3(FP-M50-3530242-MFG)
+Added Component: Designator=J4(FP-M50-3530242-MFG)
+Added Component: Designator=J5(FP-M50-3530242-MFG)
+Added Component: Designator=J10(691242500005)
+Added Component: Designator=J11(691242500005)
+Added Pin To Net: NetName=NetJ1_1 Pin=J1-1
+Added Pin To Net: NetName=NetJ1_1 Pin=J1-2
+Added Pin To Net: NetName=NetJ1_1 Pin=J10-1
+Added Net: Name=NetJ1_1
+Added Pin To Net: NetName=NetJ2_1 Pin=J2-1
+Added Pin To Net: NetName=NetJ2_1 Pin=J2-2
+Added Pin To Net: NetName=NetJ2_1 Pin=J10-2
+Added Net: Name=NetJ2_1
+Added Pin To Net: NetName=NetJ3_1 Pin=J3-1
+Added Pin To Net: NetName=NetJ3_1 Pin=J11-1
+Added Net: Name=NetJ3_1
+Added Pin To Net: NetName=NetJ3_2 Pin=J3-2
+Added Pin To Net: NetName=NetJ3_2 Pin=J11-2
+Added Net: Name=NetJ3_2
+Added Pin To Net: NetName=NetJ4_1 Pin=J4-1
+Added Pin To Net: NetName=NetJ4_1 Pin=J10-3
+Added Pin To Net: NetName=NetJ4_1 Pin=J11-4
+Added Net: Name=NetJ4_1
+Added Pin To Net: NetName=NetJ4_2 Pin=J4-2
+Added Pin To Net: NetName=NetJ4_2 Pin=J10-4
+Added Pin To Net: NetName=NetJ4_2 Pin=J11-5
+Added Net: Name=NetJ4_2
+Added Pin To Net: NetName=NetJ5_1 Pin=J5-1
+Added Pin To Net: NetName=NetJ5_1 Pin=J11-3
+Added Net: Name=NetJ5_1
+Added Pin To Net: NetName=NetJ5_2 Pin=J5-2
+Added Pin To Net: NetName=NetJ5_2 Pin=J10-5
+Added Net: Name=NetJ5_2
