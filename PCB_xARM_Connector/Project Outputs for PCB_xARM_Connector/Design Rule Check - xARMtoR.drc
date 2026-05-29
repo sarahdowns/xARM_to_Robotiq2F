@@ -1,0 +1,60 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\saira\Documents\TUDocuments\TU5_Graduate\Graduate_Research\Barrett_WAM\xARMtoR_PCB\PCB_xARM_Connector\xARMtoR.PcbDoc
+Date     : 5/29/2026
+Time     : 1:44:54 PM
+
+Processing Rule : Clearance Constraint (Gap=0.3mm) (All),(All)
+   Violation between Clearance Constraint: (0.17mm < 0.3mm) Between Pad 485-1(7.04mm,11.865mm) on Multi-Layer And Pad 485-2(7.04mm,13.135mm) on Multi-Layer 
+   Violation between Clearance Constraint: (0.17mm < 0.3mm) Between Pad 485GND-1(4.5mm,11.865mm) on Multi-Layer And Pad 485GND-2(4.5mm,13.135mm) on Multi-Layer 
+Rule Violations :2
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+   Violation between Un-Routed Net Constraint: Net NetJ1_1 Between Track (14.66mm,10.34mm)(14.66mm,11.865mm) on Top Layer And Pad GND-1(15.75mm,11.865mm) on Multi-Layer 
+Rule Violations :1
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.3mm) (Max=1mm) (Preferred=0.5mm) (All)
+Rule Violations :0
+
+Processing Rule : Routing Topology Rule(Topology=Shortest) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=2.54mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.254mm) (All),(All)
+   Violation between Minimum Solder Mask Sliver Constraint: (0.17mm < 0.254mm) Between Pad 24V-1(12.12mm,11.865mm) on Multi-Layer And Pad 24V-2(12.12mm,13.135mm) on Multi-Layer [Top Solder] Mask Sliver [0.17mm] / [Bottom Solder] Mask Sliver [0.17mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.17mm < 0.254mm) Between Pad 485-1(7.04mm,11.865mm) on Multi-Layer And Pad 485-2(7.04mm,13.135mm) on Multi-Layer [Top Solder] Mask Sliver [0.17mm] / [Bottom Solder] Mask Sliver [0.17mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.17mm < 0.254mm) Between Pad 485GND-1(4.5mm,11.865mm) on Multi-Layer And Pad 485GND-2(4.5mm,13.135mm) on Multi-Layer [Top Solder] Mask Sliver [0.17mm] / [Bottom Solder] Mask Sliver [0.17mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.17mm < 0.254mm) Between Pad GND-1(15.75mm,11.865mm) on Multi-Layer And Pad GND-2(15.75mm,13.135mm) on Multi-Layer [Top Solder] Mask Sliver [0.17mm] / [Bottom Solder] Mask Sliver [0.17mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.17mm < 0.254mm) Between Pad J3-1(9.58mm,11.865mm) on Multi-Layer And Pad J3-2(9.58mm,13.135mm) on Multi-Layer [Top Solder] Mask Sliver [0.17mm] / [Bottom Solder] Mask Sliver [0.17mm]
+Rule Violations :5
+
+Processing Rule : Silk To Solder Mask (Clearance=0.15mm) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+   Violation between Net Antennae: Track (14.66mm,10.34mm)(14.66mm,11.865mm) on Top Layer 
+Rule Violations :1
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 9
+Waived Violations : 0
+Time Elapsed        : 00:00:00
